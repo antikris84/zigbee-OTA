@@ -89,17 +89,6 @@
     ]
   },
   {
-    "fileName": "VZM35-SN_1.05.ota",
-    "fileVersion": 33685765,
-    "fileSize": 232882,
-    "originalUrl": "https://files.inovelli.com/firmware/VZM35-SN/Beta/1.05/VZM35-SN_1.05.ota",
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM35-SN_1.05.ota",
-    "imageType": 513,
-    "manufacturerCode": 4655,
-    "sha512": "a2f991faaac21cd0851d86d1057bddbcc614fbb616e4f2f841402a6bced67465db85e622bd4271a10b740e09a1fe241fa96b660bfc6e4783bd1eceb76b20a64c",
-    "otaHeaderString": "VZM35_MG24\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "VZM36_0.04.ota",
     "fileVersion": 67174404,
     "fileSize": 237962,
@@ -1255,5 +1244,16 @@
     "manufacturerName": [
       "LiXee"
     ]
+  },
+  {
+    "fileName": "VZM35-SN_1.07.ota",
+    "fileVersion": 33685767,
+    "fileSize": 232994,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM35-SN/Beta/1.07/VZM35-SN_1.07.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images1/Inovelli/VZM35-SN_1.07.ota",
+    "imageType": 513,
+    "manufacturerCode": 4655,
+    "sha512": "cc2e1639debcebb42e8cb8e48559258378112a94eaf6480721ee9ce5b5ab8d562a2b8c0c6df8819b1db9b3a539178f1b1bbf039243cf1184efe1024e4c8f05d0",
+    "otaHeaderString": "VZM35_MG24\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
