@@ -1450,16 +1450,6 @@
     "otaHeaderString": "Telink OTA Sample Usage\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   },
   {
-    "fileName": "VZM31-SN_2.18-Production.ota",
-    "fileVersion": 16908818,
-    "fileSize": 310258,
-    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM31-SN_2.18-Production.ota",
-    "imageType": 257,
-    "manufacturerCode": 4655,
-    "sha512": "6d480a5d621a16bb3a57fcc1af09071fc528dab2a8f3e479620c3bd75ddfa9e8f624c32b1dc35d5c1bc8db0f67a70ee150ce3a516a2026f717076dcbeba23df7",
-    "otaHeaderString": "EBL VM_SWITCH\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-  },
-  {
     "fileName": "V00.00.52.12.ota",
     "fileVersion": 5212,
     "fileSize": 578278,
@@ -7113,5 +7103,16 @@
     "manufacturerCode": 4655,
     "sha512": "96e7bd8b4b3bc5e47fb802c5df9133f76617d0fbf400ada66e6c81a42c12ec23afe7d638c7b15865ae894cde99e6a93cfc2b4085d9d71e5e371273050c92348b",
     "otaHeaderString": "VZM35_MG24\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  },
+  {
+    "fileName": "VZM31-SN_3.04.ota",
+    "fileVersion": 16909060,
+    "fileSize": 319866,
+    "originalUrl": "https://files.inovelli.com/firmware/VZM31-SN/Production/3.04/VZM31-SN_3.04.ota",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Inovelli/VZM31-SN_3.04.ota",
+    "imageType": 257,
+    "manufacturerCode": 4655,
+    "sha512": "95aac7aacb41c9437c9b372bade31c7a1201180c21083cd0ef588ecb9be9208d4d97593528f6ebbe1039d850ee6702eb3f1835488363b30b1a694ac19bf92ae2",
+    "otaHeaderString": "EBL VM_SWITCH\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
   }
 ]
